@@ -1,0 +1,33 @@
+{
+  "custom_advancements.adventure.enter_overworld.description": "Вернитесь обратно в Верхний мир",
+  "custom_advancements.adventure.enter_overworld.title": "Верхний мир",
+  "custom_advancements.adventure.root.description": "Исследования с приключениями",
+  "custom_advancements.adventure.root.title": "Приключения",
+
+  "custom_advancements.alchemy.root.description": "Изготовление зелий под различные нужды",
+  "custom_advancements.alchemy.root.title": "Алхимия",
+
+  "custom_advancements.archaeology.root.description": "Исследование раскопок прошлой цивилизации",
+  "custom_advancements.archaeology.root.title": "Архиология",
+
+  "custom_advancements.combat.root.description": "Совершенство навыков сражения",
+  "custom_advancements.combat.root.title": "Бой",
+
+  "custom_advancements.equipment.root.description": "Самозащита с изюминкой стиля",
+  "custom_advancements.equipment.root.title": "Экипировка",
+
+  "custom_advancements.fishing.root.description": "Приятное времяпровождение у воды",
+  "custom_advancements.fishing.root.title": "Рыболовство",
+
+  "custom_advancements.magic.root.description": "Изучение тёмной магии и ритуалов",
+  "custom_advancements.magic.root.title": "Магия",
+
+  "custom_advancements.mines.root.description": "Подземное ремесло",
+  "custom_advancements.mines.root.title": "Шахтёрство",
+
+  "custom_advancements.redstone.root.description": "Автоматизация и механизмы",
+  "custom_advancements.redstone.root.title": "Редстоун",
+
+  "custom_advancements.trade.root.description": "Деловые сделки бизнес-партнёров",
+  "custom_advancements.trade.root.title": "Торговля"
+}
