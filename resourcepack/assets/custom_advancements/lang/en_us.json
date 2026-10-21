@@ -1,0 +1,33 @@
+{
+  "custom_advancements.adventure.enter_overworld.description": "Return back to the Overworld",
+  "custom_advancements.adventure.enter_overworld.title": "Overworld",
+  "custom_advancements.adventure.root.description": "Exploring with adventure",
+  "custom_advancements.adventure.root.title": "Adventures",
+
+  "custom_advancements.alchemy.root.description": "Making potions for various needs",
+  "custom_advancements.alchemy.root.title": "Alchemy",
+
+  "custom_advancements.archaeology.root.description": "Exploring the excavations of a past civilization",
+  "custom_advancements.archaeology.root.title": "Archiology",
+
+  "custom_advancements.combat.root.description": "Perfection of battle skills",
+  "custom_advancements.combat.root.title": "Combat",
+
+  "custom_advancements.equipment.root.description": "Self-defense with a twist of style",
+  "custom_advancements.equipment.root.title": "Equipment",
+
+  "custom_advancements.fishing.root.description": "Having a good time by the water",
+  "custom_advancements.fishing.root.title": "Fishing",
+
+  "custom_advancements.magic.root.description": "The study of dark magic and rituals",
+  "custom_advancements.magic.root.title": "Magic",
+
+  "custom_advancements.mines.root.description": "Underground craft",
+  "custom_advancements.mines.root.title": "Mining",
+
+  "custom_advancements.redstone.root.description": "Automation and mechanisms",
+  "custom_advancements.redstone.root.title": "Redstone",
+
+  "custom_advancements.trade.root.description": "Business transactions of business partners",
+  "custom_advancements.trade.root.title": "Trading"
+}
