@@ -1,4 +1,5 @@
 # [Custom Advancements](https://github.com/Slarof/DP.Custom_Advancements/wiki)
+- Изменяет ванильные ветки достижений
 - Изменяет ванильные достижения
 
 ### Разработка
